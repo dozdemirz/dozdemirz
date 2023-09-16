@@ -19,3 +19,6 @@
 
 <br />
 
+### Stats
+![Dilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dozdemirz&show_icons=true&theme=omni)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=dozdemirz&theme=omni&border_radius=4.5) -->

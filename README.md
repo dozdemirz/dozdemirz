@@ -2,7 +2,7 @@
 
 - 📚 English Language & Literature Grad
 - 🖥️ Exploring the World of Code with Patika+
-- 🚀 Currently diving into Java! 
+
 
 ### Languages and Tools:
 
